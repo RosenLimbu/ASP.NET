@@ -1,0 +1,70 @@
+﻿body
+        .tableClass{
+            width: 100%;
+        }
+        .nbsp6 {
+            width: 68px;
+        }
+        .ddlFrom {
+            width: 156px;
+        }
+        .ddlTo {
+            width: 86px;
+        }
+        .nbsp5 {
+            width: 133px;
+        }
+        .txtFromClass {
+            width: 68px;
+            height: 27px;
+        }
+        .txtFrom {
+            width: 156px;
+            height: 27px;
+        }
+        .reqValidator {
+            width: 133px;
+            height: 27px;
+        }
+        .lblConvert {
+            width: 86px;
+            height: 27px;
+        }
+        .imgBackground {
+            width: 216px;
+            height: 237px;
+        }
+        .nbsp1 {
+            width: 133px;
+            text-align: center;
+        }
+        .ddlFromHead {
+            width: 68px;
+            text-align: center;
+        }
+        .btnConvert {
+            width: 156px;
+            text-align: center;
+        }
+        .nbsp4 {
+            width: 86px;
+            height: 41px;
+        }
+        .btnClear {
+            width: 86px;
+            text-align: center;
+        }
+        .imgHead {
+            width: 356px;
+        }
+        .nbsp2 {
+            width: 115px;
+        }
+        .inputRangeValidator {
+            width: 115px;
+            height: 27px;
+        }
+        .nbsp3 {
+            width: 115px;
+            text-align: center;
+        }
